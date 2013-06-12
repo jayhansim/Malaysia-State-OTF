@@ -1,4 +1,4 @@
-Malaysia-State-OTF
+Malaysia State Font (OTF)
 ==================
 
 Malaysia 13 states into one font.
